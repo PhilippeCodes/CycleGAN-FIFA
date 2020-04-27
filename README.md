@@ -8,7 +8,7 @@ We train the CycleGAN on 1000 pictures of FIFA Gameplay and a Champions League B
 The CycleGAN is implemented according to the specifications of the original paper.
 We train the models for 100 epochs. After every epoch, we save all the models to google drive and further plot the current results of the A-to-B transformation as well as save a plot of the Losses.
 
-The Models and Training Data can be downloaded here:
+The Models and Training Data can be downloaded here:  
 [Training Data (.npz)](https://drive.google.com/open?id=1sjmBlMgqrNDL4HCySr-x_FpNNa-ciSnk)  
 [Models (.h5)](https://drive.google.com/open?id=12w_ivWNkdAtFqllG9qeOvTbE8BPCfdqU)  
 [Results (.png)](https://drive.google.com/open?id=1alyTboncEO6cWyz4LfDWDK1p24EzM4OV)  
