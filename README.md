@@ -11,7 +11,8 @@ We train the models for 100 epochs. After every epoch, we save all the models to
 
 The Models and Training Data can be downloaded here:
 Training Data (.npz)
-![Training Data (.npz)](https://drive.google.com/open?id=1sjmBlMgqrNDL4HCySr-x_FpNNa-ciSnk)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Training Data (.npz)](https://drive.google.com/open?id=1sjmBlMgqrNDL4HCySr-x_FpNNa-ciSnk)
 
 
 Feel free to play around and adapt you this code to your problem.  
