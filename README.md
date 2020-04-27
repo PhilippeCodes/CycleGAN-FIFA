@@ -10,9 +10,10 @@ The CycleGAN is implemented according to the specifications of the original pape
 We train the models for 100 epochs. After every epoch, we save all the models to a google drive and further plot the curreent results of the A-to-B transformation as well as save a plot of the Losses.
 
 The Models and Training Data can be downloaded here:
-Training Data (.npz)
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-[Training Data (.npz)](https://drive.google.com/open?id=1sjmBlMgqrNDL4HCySr-x_FpNNa-ciSnk)
+
+[Training Data (.npz)](https://drive.google.com/open?id=1sjmBlMgqrNDL4HCySr-x_FpNNa-ciSnk)  
+[Models (.h5)](https://drive.google.com/open?id=12w_ivWNkdAtFqllG9qeOvTbE8BPCfdqU)  
+[Results (.png)](https://drive.google.com/open?id=12w_ivWNkdAtFqllG9qeOvTbE8BPCfdqU)  
 
 
 Feel free to play around and adapt you this code to your problem.  
