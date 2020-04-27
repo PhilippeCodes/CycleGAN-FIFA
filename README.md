@@ -1,7 +1,7 @@
 # FIFA-CycleGAN
 🎮 Turn FIFA 20 Gameplay into real-life Football using a CycleGAN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1qhN8qg6yg-AOhaQtYap-iRugc6mCSxUz)
 
 In this project, we attempt to transform frames of FIFA 20 gameplay into real-life football broadcasts.
 In order to do so, we implement a CycleGAN in Keras.
