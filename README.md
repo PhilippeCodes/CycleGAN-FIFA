@@ -11,7 +11,6 @@ We train the models for 100 epochs. After every epoch, we save all the models to
 The Models and Training Data can be downloaded here:  
 [Training Data (.npz)](https://drive.google.com/open?id=1sjmBlMgqrNDL4HCySr-x_FpNNa-ciSnk)  
 [Models (.h5)](https://drive.google.com/open?id=12w_ivWNkdAtFqllG9qeOvTbE8BPCfdqU)  
-[Results (.png)](https://drive.google.com/open?id=1alyTboncEO6cWyz4LfDWDK1p24EzM4OV)  
 
 Finally, we play around with a SRGAN and achieve impressive results in upscaling pictures of real-life soccer however, this method fails to improve our CycleGAN Result.
 
